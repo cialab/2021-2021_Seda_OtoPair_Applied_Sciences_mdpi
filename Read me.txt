@@ -1,0 +1,8 @@
+This paper was published in Applied Sciences (mdpi).
+Citation: Camalan S, Moberly AC, Teknos T, Essig G, Elmaraghy C, Taj-Schaal N, Gurcan MN. OtoPair: Combining Right and Left Eardrum Otoscopy Images to Improve the Accuracy of Automated Image Analysis. Applied Sciences. 2021; 11(4):1831. https://doi.org/10.3390/app11041831
+The data that support the findings of this study are openly available in Zenodo at https://doi.org/10.5281/zenodo.4404755.
+You can access the data from either
+Cluster: /isilon/datalake/cialab/scratch/cialab/scamalan/Autoscope/Pair/AN_pairs
+/isilon/datalake/cialab/scratch/cialab/scamalan/Autoscope/Pair/Normal-Abnormal/ENT
+Your own computer: \\medctr.ad.wfubmc.edu\dfs\cialab$\scratch\cialab\scamalan\Autoscope\Pair\AN_pairs
+\\medctr.ad.wfubmc.edu\dfs\cialab$\scratch\cialab\scamalan\Autoscope\Pair\Normal-Abnormal\ENT
